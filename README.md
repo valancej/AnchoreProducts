@@ -16,7 +16,7 @@ The table below compares features of Anchore Enterprise and Anchore Open Source.
 | Prometheus Integration | x | x |
 | Command Line Tools | x | x |
 | Analysis Modules | x | x |
-| Notifications | x | x |
+| Notifications | x | x | Limited |
 | RBAC | x |  |
 | Enterprise Support | x |  |
 | Enterprise UI | x |  |
