@@ -2,7 +2,7 @@
 
 
 |  | Anchore Enterprise | Anchore Open Source |
-| :--- | :--- | :--- |
+| :--- | --- | --- |
 | CVE Scanning | x | x |
 | Policy Based Compliance | x | x |
 | Deep Image Inspection | x | x |
