@@ -1,6 +1,6 @@
-# Anchore Enterprise vs Open Source
+# Anchore Enterprise vs Open Source vs Cloud
 
-The table below compares features of Anchore Enterprise and Anchore Open Source. 'x' designates an available feature. 
+The table below compares features of Anchore Enterprise, Anchore Open Source, and Anchore Cloud. 'x' designates an available feature. 
 
 
 |  | Anchore Enterprise | Anchore Open Source | Anchore Cloud |
