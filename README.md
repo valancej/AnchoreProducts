@@ -15,9 +15,9 @@
 | Command Line Tools | x | x |
 | Analysis Modules | x | x |
 | Notifications | x | x |
-| RBAC | x | NVD Database |
-| Enterprise Support | x | Ubuntu data |
-| Enterprise UI | x | NPM Registry package data |
-| On-prem Feed Service | x | Ruby Gems data feed (stored in Amazon S3) |
+| RBAC | x |  |
+| Enterprise Support | x |  |
+| Enterprise UI | x |  |
+| On-prem Feed Service | x |  |
 | Snyk Feeds | x | NVD Database |
-| Security First Reports | x | Ubuntu data |
+| Security First Reports | x | |
