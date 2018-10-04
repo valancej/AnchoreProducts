@@ -1,5 +1,7 @@
 # Anchore Enterprise vs Open Source
 
+The table below compares features of Anchore Enterprise and Anchore Open Source. 'x' designates an available feature. 
+
 
 |  | Anchore Enterprise | Anchore Open Source |
 | :--- | :---: | :---: |
@@ -19,5 +21,5 @@
 | Enterprise Support | x |  |
 | Enterprise UI | x |  |
 | On-prem Feed Service | x |  |
-| Snyk Feeds | x | NVD Database |
+| Snyk Feeds | x |  |
 | Security First Reports | x | |
