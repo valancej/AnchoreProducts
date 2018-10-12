@@ -23,3 +23,4 @@ The table below compares features of Anchore Enterprise, Anchore Open Source, an
 | On-prem Feed Service | x |  |
 | Snyk Feeds | x |  |
 | Security First Reports | x | |
+| Audit Logs | x | |
